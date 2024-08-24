@@ -1,8 +1,8 @@
 # Leiaute dos arquivos
 
-Separador: ";"
-Header: True
-Compressão: gzip
+- **Separador**: ";"
+- **Header**: True
+- **Compressão**: gzip
 
 ### `pedidos.csv.gz`
 | Atributo        | Tipo      | Obs                                               | 
